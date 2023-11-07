@@ -5,7 +5,8 @@
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Padooooo&show_icons=true&theme=jolly"/>
     <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padooooo&layout=compact&langs_count=16&theme=jolly"/>
 </div>
-
+        
+- 👋 Oi, Meu nome é Guilherme mas todo mundo costuma a me chamar de Pado e meio que virou meu nome / Hi, i'm Guilherme but everyone is used to call me by Pado and then i'm taking it as my name now
 - 👀 Estou aprendendo a usar git **Seja paciente**/ I'm learning on how to use git **pls Be patient**
 - 🌱 Estou estudando quase TUDO, mas com foco em Web e data Science / I'm studying almost EVERYTHING, but focusing web and data science 
 - 💞️ **JAVASCRIPT MY ONE AND ONLY TRUE LOVE**
