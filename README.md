@@ -2,8 +2,8 @@
 
 <div>
     <a href="https://github.com/Padooooo">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Padooooo&show_icons=true&theme=jolly"/>
-    <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padooooo&layout=compact&langs_count=16&theme=jolly"/>
+    <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=Padooooo&show_icons=true&theme=jolly"/>
+    <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padooooo&layout=compact&langs_count=16&theme=jolly"/>
 </div>
         
 - 👋 Oi, Meu nome é Guilherme mas todo mundo costuma a me chamar de Pado e meio que virou meu nome / Hi, i'm Guilherme but everyone is used to call me by Pado and then i'm taking it as my name now
